@@ -1,0 +1,8 @@
+Statistics for Ntp Algorithm
+
+Total no. of sync calls: 1448
+Mean offset: 1.3380524861878453 ms
+Median offset: 1.0 ms
+Standard Deviation of offsets: 10.6654 ms
+Maximum offset: 406.5 ms
+Minimum offset: -2.0 ms

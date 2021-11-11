@@ -1,0 +1,10 @@
+Statistics for Cristian Algcristorithm
+
+Total no. of sync calls: 1905
+Mean Error: 10.765879265091863 ms
+Median Error: 11.0 ms
+Standard Deviation of Errors: 5.4938 ms
+Maximum Error: 249.0 ms
+Minimum Error: 9.0 ms
+
+Range of times: 206.65 seconds

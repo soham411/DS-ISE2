@@ -1,0 +1,10 @@
+Statistics for Berkeley Algcristorithm
+
+Total no. of sync calls: 1000
+Mean Error: 6.028 ms
+Median Error: 5.0 ms
+Standard Deviation of Errors: 4.9089 ms
+Maximum Error: 24.0 ms
+Minimum Error: 0.0 ms
+
+Range of times: 114.15 seconds
